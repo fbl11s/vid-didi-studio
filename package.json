@@ -1,0 +1,26 @@
+{
+  "name": "vid-didi-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbl11s/vid-didi-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fbl11s/vid-didi-studio/issues"
+  },
+  "homepage": "https://github.com/fbl11s/vid-didi-studio#readme",
+  "dependencies": {
+    "@avaturn/sdk": "^1.1.4",
+    "remotion": "^4.0.484",
+    "three": "^0.185.0"
+  }
+}
